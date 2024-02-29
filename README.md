@@ -2,4 +2,5 @@ nationalize-client
 ==================
 
 changes
-new line
+new lines
+n
